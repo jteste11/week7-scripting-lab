@@ -9,3 +9,4 @@ Write-Host "==============================="
 Write-Host $greeting
 Write-Host "Your name has $($name.Length) characters."
 Write-Host "==============================="
+Write-Host "This line was added on MAIN"
