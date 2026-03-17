@@ -10,3 +10,4 @@ Write-Host $greeting
 Write-Host "Your name has $($name.Length) characters."
 Write-Host "==============================="
 Write-Host "Merged version of this line"
+# Added for Question 5 commit
